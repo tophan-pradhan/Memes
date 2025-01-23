@@ -11,7 +11,7 @@ Processing the image and text is done client-side, so no data is sent to any ser
 
 ## Live demo
 
-👉 [Meme Generator](https://georapbox.github.io/meme-generator/)
+
 
 ## Features
 
@@ -21,12 +21,6 @@ Some of the key features of the application include creating memes by:
 - Selecting an image from the gallery
 - Taking a photo with your device's web camera
 - Using a solid color as background
-
-## Screenshots
-
-The following screenshots show the application in action:
-
-![meme](screenshots/screenshot.png)
 
 ## Development
 
@@ -83,4 +77,4 @@ This will build the application first and then deploy it to GitHub Pages in the 
 
 ## License
 
-[The MIT License (MIT)](https://github.com/georapbox/meme-generator/blob/master/LICENSE)
+
